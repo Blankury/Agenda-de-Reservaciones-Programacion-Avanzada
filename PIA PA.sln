@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PIA PA", "PIA PA\PIA PA.vcxproj", "{C93CEC43-F132-451C-88E9-9CF247175B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C93CEC43-F132-451C-88E9-9CF247175B51}.Debug|x64.ActiveCfg = Debug|x64
+		{C93CEC43-F132-451C-88E9-9CF247175B51}.Debug|x64.Build.0 = Debug|x64
+		{C93CEC43-F132-451C-88E9-9CF247175B51}.Debug|x86.ActiveCfg = Debug|Win32
+		{C93CEC43-F132-451C-88E9-9CF247175B51}.Debug|x86.Build.0 = Debug|Win32
+		{C93CEC43-F132-451C-88E9-9CF247175B51}.Release|x64.ActiveCfg = Release|x64
+		{C93CEC43-F132-451C-88E9-9CF247175B51}.Release|x64.Build.0 = Release|x64
+		{C93CEC43-F132-451C-88E9-9CF247175B51}.Release|x86.ActiveCfg = Release|Win32
+		{C93CEC43-F132-451C-88E9-9CF247175B51}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407B28D2-2DB6-4FAB-B5A7-D281B138F7B3}
+	EndGlobalSection
+EndGlobal
